@@ -7,31 +7,17 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/Part 1 - Why statistics/index.html",
+    "href": "posts/Part 1 - Why statistics/index.html",
+    "title": "Part 1 - Why statistics?",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/01-variance-intro/index.html",
-    "href": "posts/01-variance-intro/index.html",
-    "title": "An Introduction to Variance",
-    "section": "",
-    "text": "Welcome to the blog! Many students find statistics intimidating, but we are going to break it down step-by-step. Today, we are looking at variance.\n\nThe Intuition\nVariance simply tells us how spread out our data is around the average. If everyone in the class gets exactly a 7.0 on a test, the variance is zero. If grades range from 2.0 to 10.0, the variance is high.\n\n\nThe Math\nHere is the formal formula for sample variance. Notice how we divide by \\(n-1\\) instead of \\(n\\) to correct for bias:\n\\[s^2 = \\frac{\\sum_{i=1}^{n} (x_i - \\bar{x})^2}{n-1}\\]\n\n\nThe Code\nInstead of calculating this by hand, here is how we ask R to do the heavy lifting for a small sample of student grades:\n\n\nA list of student grades\nstudent_grades &lt;- c(6.5, 7.0, 8.2, 5.5, 9.0)\n\n\nCalculate the variance\nvar(student_grades)"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the blog! My name is Job (24) and I’m a Master student in the program: Child Development and Education. I don’t have the years of statistical experience your statistics professors have so I’m not a seasoned mathematician or statistician. But, I am, like you, growing up in a word of AI, social media and massive computing power. With this blog I hope to provide a place where conceptual thinking, intuition (or the lack of it) and statistics come together. Together I hope to explore how statistics can be less about equations, rules and R-code, and more about order, disorder and beauty. Furthermore I hope to connect math concepts from highschool to university statistics concepts to illustrate that most of already know a lot about stats, we just have to get used to the terminology. I aim to do this because I experienced a lack of connection between highschool math and bachelor statistics when I started with my bachelor “Pedagogical Sciences”. Lastly, because my area of interest is child, development and education, most of this blog will revolve around these topics.\n\nWhy would we do statistics?\nIn my second year of my bachelors one of the ethics professors made us read the paper The Lure of Statistics for Educational Researchers by David Labaree. Labaree learned me that quantifying can be a coping mechanism for how weak the soft sciences (e.g., child, development and education) are when measuring behavior. For example, a physics or chemistry scientist can rely on a themometer for measuring temperature, soft sciences researches do not have such a instrument for quantifying (complex) behavior. Labaree states that this notion makes us seek statistics as a way to compensate for this weakness. Furthermore, researchers in the soft sciences generally experience a pressure to quantify their findings as a warrant for funding and being accepted to prestigious journals.\nSo, I start with a wake-up call. Statistics can be fuzzy and very complex, which can hinder interpretability. Statistics can be used to manipulate data to get made up results which can foster bad science. But statistics can be also very elegant and intuitive. Feeling this elegance of statistics is a feeling best expressed in the scene “Can you hear the music” from the Oppenheimer movie.\nAnd that is what I want to experience together. I want to recreate the feeling when you first learned to bike. Or the feeling when you first solved that difficult equation in highschool. All these events where you “heard the music”, I hope you will also start “hearing the music” when doing statistics together."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "stats-bachelor-blog",
+    "title": "Blog - From highschool math to univeristy statistics",
     "section": "",
-    "text": "An Introduction to Variance\n\n\n\nBasics\n\nR-Code\n\n\n\n\n\n\n\n\n\nMay 27, 2026\n\n\nYour Name\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 27, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 24, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Part 1 - Why statistics?\n\n\n\nBasics\n\n\n\n\n\n\n\n\n\nMay 27, 2026\n\n\nJob Oussoren\n\n\n\n\n\nNo matching items"
   }
 ]
