@@ -1,1 +1,1 @@
-Sitemap: https://your-website-url.example.com/sitemap.xml
+Sitemap: https://joboussoren.github.io/stats-blog/sitemap.xml

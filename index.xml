@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>From highschool math to university statistics</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://joboussoren.github.io/stats-blog/</link>
+<atom:link href="https://joboussoren.github.io/stats-blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog for university students about statistics</description>
 <generator>quarto-1.9.38</generator>
 <lastBuildDate>Tue, 26 May 2026 22:00:00 GMT</lastBuildDate>
 <item>
   <title>An Introduction to Variance</title>
   <dc:creator>Your Name</dc:creator>
-  <link>https://your-website-url.example.com/posts/01-variance-intro/</link>
+  <link>https://joboussoren.github.io/stats-blog/posts/01-variance-intro/</link>
   <description><![CDATA[ 
 
 
@@ -49,13 +49,13 @@
  ]]></description>
   <category>Basics</category>
   <category>R-Code</category>
-  <guid>https://your-website-url.example.com/posts/01-variance-intro/</guid>
+  <guid>https://joboussoren.github.io/stats-blog/posts/01-variance-intro/</guid>
   <pubDate>Tue, 26 May 2026 22:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <link>https://joboussoren.github.io/stats-blog/posts/post-with-code/</link>
   <description><![CDATA[ 
 
 
@@ -82,14 +82,14 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://joboussoren.github.io/stats-blog/posts/post-with-code/</guid>
   <pubDate>Tue, 26 May 2026 22:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://joboussoren.github.io/stats-blog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://joboussoren.github.io/stats-blog/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -97,14 +97,14 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
 
 <p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://joboussoren.github.io/stats-blog/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>https://joboussoren.github.io/stats-blog/posts/welcome/</guid>
   <pubDate>Sat, 23 May 2026 22:00:00 GMT</pubDate>
 </item>
 </channel>
